@@ -1,7 +1,7 @@
 {
   "name": "3js-funstuff",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://brentshierk.github.io/3js-final",
   "dependencies": {
     "@react-spring/three": "^9.0.0-rc.3",
