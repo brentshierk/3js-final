@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/brentshierk.github.io/3js-final/static/css/main.0e254204.chunk.css",
-    "main.js": "/brentshierk.github.io/3js-final/static/js/main.c7b7c65c.chunk.js",
-    "main.js.map": "/brentshierk.github.io/3js-final/static/js/main.c7b7c65c.chunk.js.map",
-    "runtime-main.js": "/brentshierk.github.io/3js-final/static/js/runtime-main.a539b347.js",
-    "runtime-main.js.map": "/brentshierk.github.io/3js-final/static/js/runtime-main.a539b347.js.map",
-    "static/js/2.a18fed94.chunk.js": "/brentshierk.github.io/3js-final/static/js/2.a18fed94.chunk.js",
-    "static/js/2.a18fed94.chunk.js.map": "/brentshierk.github.io/3js-final/static/js/2.a18fed94.chunk.js.map",
-    "index.html": "/brentshierk.github.io/3js-final/index.html",
-    "precache-manifest.8b73ba49368259febec389f95d5b7f41.js": "/brentshierk.github.io/3js-final/precache-manifest.8b73ba49368259febec389f95d5b7f41.js",
-    "service-worker.js": "/brentshierk.github.io/3js-final/service-worker.js",
-    "static/css/main.0e254204.chunk.css.map": "/brentshierk.github.io/3js-final/static/css/main.0e254204.chunk.css.map",
-    "static/js/2.a18fed94.chunk.js.LICENSE.txt": "/brentshierk.github.io/3js-final/static/js/2.a18fed94.chunk.js.LICENSE.txt"
+    "main.css": "/3js-final/static/css/main.0e254204.chunk.css",
+    "main.js": "/3js-final/static/js/main.50d5fb51.chunk.js",
+    "main.js.map": "/3js-final/static/js/main.50d5fb51.chunk.js.map",
+    "runtime-main.js": "/3js-final/static/js/runtime-main.addd7b5a.js",
+    "runtime-main.js.map": "/3js-final/static/js/runtime-main.addd7b5a.js.map",
+    "static/js/2.a18fed94.chunk.js": "/3js-final/static/js/2.a18fed94.chunk.js",
+    "static/js/2.a18fed94.chunk.js.map": "/3js-final/static/js/2.a18fed94.chunk.js.map",
+    "index.html": "/3js-final/index.html",
+    "precache-manifest.2e0328a2e6e2910094a732ae66c1129c.js": "/3js-final/precache-manifest.2e0328a2e6e2910094a732ae66c1129c.js",
+    "service-worker.js": "/3js-final/service-worker.js",
+    "static/css/main.0e254204.chunk.css.map": "/3js-final/static/css/main.0e254204.chunk.css.map",
+    "static/js/2.a18fed94.chunk.js.LICENSE.txt": "/3js-final/static/js/2.a18fed94.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a539b347.js",
+    "static/js/runtime-main.addd7b5a.js",
     "static/js/2.a18fed94.chunk.js",
     "static/css/main.0e254204.chunk.css",
-    "static/js/main.c7b7c65c.chunk.js"
+    "static/js/main.50d5fb51.chunk.js"
   ]
 }
