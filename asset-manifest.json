@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brentshierk/3js-final/static/css/main.0e254204.chunk.css",
+    "main.js": "/brentshierk/3js-final/static/js/main.a717cc7e.chunk.js",
+    "main.js.map": "/brentshierk/3js-final/static/js/main.a717cc7e.chunk.js.map",
+    "runtime-main.js": "/brentshierk/3js-final/static/js/runtime-main.73ddb5c7.js",
+    "runtime-main.js.map": "/brentshierk/3js-final/static/js/runtime-main.73ddb5c7.js.map",
+    "static/js/2.a18fed94.chunk.js": "/brentshierk/3js-final/static/js/2.a18fed94.chunk.js",
+    "static/js/2.a18fed94.chunk.js.map": "/brentshierk/3js-final/static/js/2.a18fed94.chunk.js.map",
+    "index.html": "/brentshierk/3js-final/index.html",
+    "precache-manifest.d7ff50143d8aeaf0c34b04f4680778c1.js": "/brentshierk/3js-final/precache-manifest.d7ff50143d8aeaf0c34b04f4680778c1.js",
+    "service-worker.js": "/brentshierk/3js-final/service-worker.js",
+    "static/css/main.0e254204.chunk.css.map": "/brentshierk/3js-final/static/css/main.0e254204.chunk.css.map",
+    "static/js/2.a18fed94.chunk.js.LICENSE.txt": "/brentshierk/3js-final/static/js/2.a18fed94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73ddb5c7.js",
+    "static/js/2.a18fed94.chunk.js",
+    "static/css/main.0e254204.chunk.css",
+    "static/js/main.a717cc7e.chunk.js"
+  ]
+}
